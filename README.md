@@ -1,4 +1,9 @@
-Please Read this file Carrfully
-Thus file is an EFI/UEFI boot option fuile
-You Have to paste EFI &  .md file is macOS Anyos
-Thank u
+Hi,Guys
+This is an Opencore Legacy Pathcer Lateset version.
+'THIS APP ONLY FOR MACBOOK.NO WINDOWS IS SUPPORTED"
+This app is an usefull app for upgrading macOS X Lion ,Xpeard etc to macOS BigSur ,Monterey & Ventura
+IF U ARE THINKING TO DELETE THIS APP IT WON'T
+SO DO IT CAREFULL WHILE DELTEING
+IT WILL DELETE YOURS CURRENT USING OS | YOU WILL BE STUCKED WHAT DO TO NOW!
+SO DO IT VERY CAREFUULY
+THANK YOU THAT U HAVE READ IT 
